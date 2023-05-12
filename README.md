@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/k_rdesai03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_rdesai03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krupali desai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krupali desai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krupali-desai-17269a235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krupali desai" height="30" width="40" /></a>
 <a href="https://fb.com/krupali desai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krupali desai" height="30" width="40" /></a>
 <a href="https://instagram.com/k_rdesai03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_rdesai03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dkrupali56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dkrupali56" height="30" width="40" /></a>
